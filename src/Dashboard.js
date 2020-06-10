@@ -4,8 +4,8 @@ class Dashboard extends Component {
   render() {
     return (
       <div className='dashboard'>
-         <h1>NetWorthy Dashboard</h1>
-        <h2>Content!</h2>
+         <h1>Dashboard</h1>
+        <h2>Net Worth Data!</h2>
       </div>
     )
 	}
